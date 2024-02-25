@@ -1,5 +1,7 @@
 
 This is an actively updating repository for Machine Learning, a class currently being taken in Spring 2024
+
+
 **Computer Science 410: Machine Learning**
 Welcome to my repository for the Computer Science 410 Machine Learning course. This repository contains projects and assignments completed as part of the course, demonstrating the application of machine learning concepts and techniques using Python and Jupyter Notebook.
 
